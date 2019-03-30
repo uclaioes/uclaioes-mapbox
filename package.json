@@ -1,0 +1,26 @@
+{
+  "name": "uclaioes-mapbox",
+  "version": "1.0.0",
+  "description": "Load mapbox-gl for use in plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uclaioes/uclaioes-mapbox.git"
+  },
+  "keywords": [
+    "mapbox",
+    "environment"
+  ],
+  "author": "Scott Gruber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uclaioes/uclaioes-mapbox/issues"
+  },
+  "homepage": "https://github.com/uclaioes/uclaioes-mapbox#readme",
+  "devDependencies": {
+    "mapbox-gl": "^0.53.1"
+  }
+}
